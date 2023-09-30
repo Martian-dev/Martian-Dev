@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Martian-dev?label=Follow&style=social)
 
 ## 👦 about me
-- 🏫 high school student
+- 🏫 college fresher, electronics and computer engineering dept
 - ⚛️ into physics and mathematics
 - ⚡ interested in making physics simulations
 - 👀 looking for an internship
@@ -11,8 +11,9 @@
 - ⌨️ fun fact: i can type fast (100+ wpm)
 
 ## 🛠️ what am doing right now
-- 📚 studying for exams
-- </> learning new programming languages (rust, c++, javascript)
+- 📚 dealing with college
+- </> learning new programming languages (rust, c++, javascript, java)
+- 💪 working on myself
 - 🕷️ meeting new people in discord
 
 ## 👨‍💻 technologies I use
