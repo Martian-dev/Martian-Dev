@@ -14,7 +14,7 @@
 - 📚 dealing with college
 - </> learning new programming languages (rust, c++, javascript, java)
 - 💪 working on myself
-- 🕷️ meeting new people in discord
+- 🤝 building connections
 
 ## 👨‍💻 technologies I use
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
