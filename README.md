@@ -3,18 +3,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/Martian-dev?label=Follow&style=social)
 
 ## 👦 about me
-- 🏫 college fresher, electronics and computer engineering dept
+- 🏫 college sophomore, electronics and computer engineering dept
 - ⚛️ into physics and mathematics
-- ⚡ interested in making physics simulations
+- ⚡ interested in making physics simulations, web development and building CRUD apps
 - 👀 looking for an internship
 - 🪟 i use windows and linux(sometimes)
 - ⌨️ fun fact: i can type fast (100+ wpm)
 
 ## 🛠️ what am doing right now
 - 📚 dealing with college
-- </> learning new programming languages (rust, c++, javascript, java)
+- </> exploring various tech stacks (nextjs, astro, sveltekit, etc.)
 - 💪 working on myself
-- 🤝 building connections
 
 ## 👨‍💻 technologies I use
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
