@@ -3,11 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/Martian-dev?label=Follow&style=social)
 
 ## 👦 about me
-- 🏫 college sophomore, electronics and computer engineering dept
+- 🏫 college pre-final year, electronics and computer engineering dept
 - ⚛️ into physics and mathematics
-- ⚡ interested in making physics simulations, web development and building CRUD apps
-- 👀 looking for an internship
-- 🪟 i use windows and linux(sometimes)
+- ⚡ exploring agentic AI, building production ready applications.
+- 👀 building software of clients, you can reach me out through my socials or my email.
+- 🐧 i daily drive linux
 - ⌨️ fun fact: i can type fast (100+ wpm)
 
 ## 🛠️ what am doing right now
